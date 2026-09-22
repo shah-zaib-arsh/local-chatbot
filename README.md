@@ -388,15 +388,11 @@ Possible improvements for future versions include:
 
 **Shahzaib Arshed**
 
-GitHub:
+GitHub: https://github.com/shah-zaib-arsh/local-chatbot
 
-https://github.com/shah-zaib-arsh/local-chatbot
+Gmail: mrshahzaib903@gmail.com
 
-Gmail:
-mrshahzaib903@gmail.com
-
-Linkedin:
-https://www.linkedin.com/in/muhammad-shahzaib-arshed/
+Linkedin: https://www.linkedin.com/in/muhammad-shahzaib-arshed/
 
 ---
 
