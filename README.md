@@ -383,23 +383,20 @@ Possible improvements for future versions include:
 - Better mobile UI
 - Voice input and text-to-speech
 
----
-
-## 📄 License
-
-No license has been specified for this project yet.
-
-Add a `LICENSE` file before publishing the project for reuse by others.
-
----
 
 ## 👨‍💻 Author
 
-**Shah**
+**Shahzaib Arshed**
 
 GitHub:
 
 https://github.com/shah-zaib-arsh/local-chatbot
+
+Gmail:
+mrshahzaib903@gmail.com
+
+Linkedin:
+https://www.linkedin.com/in/muhammad-shahzaib-arshed/
 
 ---
 
