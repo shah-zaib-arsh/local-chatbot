@@ -4,27 +4,25 @@ A simple and privacy-focused local AI chatbot built with **Python**, **Ollama**,
 
 The application connects to your locally running Ollama server and lets you chat with installed local language models through a clean web interface. No cloud API key is required for the chatbot itself.
 
----
 
 ## ✨ Features
 
-- 🦙 **Ollama integration** — Uses models running on your local machine.
-- 💬 **Interactive chat UI** — Clean Streamlit-based chatbot interface.
-- ⚡ **Streaming responses** — AI responses appear in real time.
-- 🤖 **Automatic model discovery** — Shows only models installed in your local Ollama server.
-- 🎯 **Model selection** — Switch between available local models from the sidebar.
-- 🧠 **Custom system prompt** — Control how the AI behaves and responds.
-- 🌡️ **Temperature control** — Adjust response creativity.
-- 📚 **Context length control** — Choose the context window used for generation.
-- 🔄 **Regenerate response** — Regenerate the latest assistant response.
-- 🗑️ **Clear chat** — Remove the current conversation history.
-- 📄 **Export chat as TXT** — Download your conversation as a text file.
-- 📦 **Export chat as JSON** — Save conversation data and settings in JSON format.
-- 📊 **Chat statistics** — Displays token count and generation time when provided by Ollama.
-- 🔌 **Connection status** — Shows whether the local Ollama server is online or offline.
-- 🌙 **Dark interface** — Custom styling for a modern dark UI.
+- 🦙 **Ollama integration**: Uses models running on your local machine.
+- 💬 **Interactive chat UI**: Clean Streamlit-based chatbot interface.
+- ⚡ **Streaming responses**: AI responses appear in real time.
+- 🤖 **Automatic model discovery**: Shows only models installed in your local Ollama server.
+- 🎯 **Model selection**: Switch between available local models from the sidebar.
+- 🧠 **Custom system prompt**: Control how the AI behaves and responds.
+- 🌡️ **Temperature control**: Adjust response creativity.
+- 📚 **Context length control**: Choose the context window used for generation.
+- 🔄 **Regenerate response**: Regenerate the latest assistant response.
+- 🗑️ **Clear chat**: Remove the current conversation history.
+- 📄 **Export chat as TXT**: Download your conversation as a text file.
+- 📦 **Export chat as JSON**: Save conversation data and settings in JSON format.
+- 📊 **Chat statistics**: Displays token count and generation time when provided by Ollama.
+- 🔌 **Connection status**: Shows whether the local Ollama server is online or offline.
+- 🌙 **Dark interface**: Custom styling for a modern dark UI.
 
----
 
 ## 🛠️ Technologies Used
 
